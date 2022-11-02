@@ -24,7 +24,7 @@ int add(int a, int b){
 }
 
 void output(int a, int b, int sum){
-  printf("%d+%d=%d" , a,b,sum);
+  printf("The sum of %d and %d is %d " , a,b,sum);
   
 }
 
