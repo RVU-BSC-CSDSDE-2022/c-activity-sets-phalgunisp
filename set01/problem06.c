@@ -13,7 +13,7 @@ int main(){
   }
   int input(){
   int comp;
-  printf("Enter the number a: \n  Enter the number b: \n , Enter the number c: \n ");
+  printf("Enter the number\n");
   scanf("%d", &comp);
   return comp;
   
